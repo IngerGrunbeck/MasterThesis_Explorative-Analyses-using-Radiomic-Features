@@ -3,6 +3,8 @@
 Created on Thu Jun  4 13:35:07 2020
 
 @author: inger
+
+This script creates piecharts showing the fraction of each feature-category selected by the the feature selection algorithms. 
 """
 
 import pandas as pd
